@@ -10,6 +10,8 @@
 
 3.These measures were used to create a linear discriminant model to classify the species. The dataset is often used in data mining, classification and clustering examples and to test algorithms.
 
+4.The iris flowers dataset contains numeric attributes, and it is perfect for beginners to learn about supervised ML algorithms, mainly how to load and handle data. Also, since this is a small dataset, it can easily fit in memory without requiring special transformations or scaling capabilities.
+
 
 ![iris-machinelearning](https://user-images.githubusercontent.com/73248098/176242902-113d124b-09c7-4e0b-84f5-15d577a48f0a.png)
 
