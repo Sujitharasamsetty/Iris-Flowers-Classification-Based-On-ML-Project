@@ -4,7 +4,7 @@
 
 ### Below are the steps for Iris Flower Classification Using Machine Learning
 
-1. This particular ML project is usually referred to as the “Hello World” of Machine Learning
+1.This particular ML project is usually referred to as the “Hello World” of Machine Learning
 
 2.The Iris Dataset contains four features (length and width of sepals and petals) of 50 samples of three species of Iris (Iris setosa, Iris virginica and Iris versicolor)
 
